@@ -1,3 +1,4 @@
+# Jedrek Haberka-Dawidek | #82816506
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
